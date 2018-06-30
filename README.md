@@ -1,6 +1,6 @@
 徐川的简历
 # 概述
-* 本人2012年华中科技大学半导体芯片与设计专业毕业后,选择进入华为技术有限公司销售部工作,提高自身综合能力。在华为东北大区担任辽南大区销售总监时,因参与了大连智慧城市研发,对计算机语言产生了浓厚的兴趣,决定通过自主学习转行进入计算机行业。目前成功主导最爱抓娃娃娃项目前端项目，硕士期间英语托业考试成绩915分,保持高水平英文听说读写水平至今。
+* 本人2012年华中科技大学半导体芯片与设计专业毕业后,选择进入华为技术有限公司销售部工作,提高自身综合能力。在华为东北大区担任辽南大区销售总监时,因参与了大连智慧城市研发,对计算机语言产生了浓厚的兴趣,决定通过自主学习转行进入计算机行业。目前主导研发最爱抓娃娃娃项目H5版本，硕士期间英语托业考试成绩915分,保持高水平英文听说读写水平至今。
 # 联系方式
 
 * 手机：17688899057
@@ -17,7 +17,6 @@
 * 期望职位：前端程序员
 * 期望城市：深圳
 
-
 # 工作经历
 
 ## 华为技术有限公司 （ 2012年6月 ~ 2017年5月 ）
@@ -33,35 +32,38 @@
   5.  大连医大一院HIS系统改造项目 等。。
 ### 华为公司PRM系统项目开发
 - 参与华为公司PRM系统升级研发
-- 根据PRM系统原有问题，重新设计并重构系统
+- 根据PRM系统原有问题，重新设计并重构公司合作伙伴管理系统
 
 ## 深圳点趣网络有限公司（2017年8月 ～ 至今）
 
 ### 前端开发
-- 负责最爱抓娃娃游戏H5版本整体前端设计，开发，项目采用VUE框架
-    ![](https://github.com/jzsplk/2018CV/raw/master/img/home.png)
-- 独立完成直播抓娃娃游戏的娃娃机控制、通信系统
-- 从无到有完成抓娃娃游戏视频直播部分，采用Javascript硬解码H.264直播视频流，实现H5页面的视频流畅直播,清晰度及延迟指标在同类游戏中占优势
-    ![](https://github.com/jzsplk/2018CV/raw/master/img/playing.png)
-- 独立完成最爱抓娃娃的游客登陆系统、微信登陆、打通H5公众号支付流程，奖品发货流程
-
+- 负责最爱抓娃娃游戏H5版本整体前端设计，基础架构，开发。项目采用Vue全家桶,自研H5视频直播工具，娃娃机通信系统
+- 独立完成直播抓娃娃游戏的娃娃机控制系统、通信系统.实现娃娃机网络远程操作控制以及房间聊天通讯，游戏系统消息通讯
+- 从无到有完成抓娃娃游戏视频直播部分：由于H5直播抓娃娃需要低延迟，高清晰度，在业界没有可用成熟方案情况下，采用Javascript软解码的方式解码H.264直播视频流。实现H5页面的视频流畅直播,清晰度及延迟指标在同类游戏中占优势
+- 独立构架，完成最爱抓娃娃的游客登陆系统、公众号微信登陆、打通H5公众号支付流程，发货流程，构建签到奖励系统
 # 开源项目和作品
 ## 开源项目
   - [Udacity 图书跟踪应用](https://jzsplk.github.io/myReads_udacity/)：项目的简要说明，使用React框架编写一款搜索整理google图书的app. 应用具备图书收藏功能，对图书分类管理。持续改进项目体验，针对API搜索数据可能突变，做针对性处理，针对搜索性能问题做防抖处理，增加异步请求时间的等待动画，提高用户体验。
-    ![](https://github.com/jzsplk/CV/raw/master/img/myreads_udacity.png)
   - [Udacity 地图项目：找房记录及米其林地图 Project](https://github.com/jzsplk/map_project_udacity)
   ：使用knockout框架构建的一款地图App，符合响应式规范。使用Google Map构建地图标记点跟搜索Filter的同步筛选，集成了Yelp、FourSquare第三方API内容。开发过程中解决了cors问题，使得yelp API正常使用。
-   ![](https://github.com/jzsplk/CV/raw/master/img/map_udacity.png)
   - [Udacity 经典街机游戏克隆](https://github.com/jzsplk/front-udacity-ArcadeGame)：项目的简要说明，通过javascript可视化资源和canvas游戏循环引擎，编写一款在线青蛙过河游戏.在完成游戏项目基本要求之外，增加了物品收集奖励系统，在线排名系统，学习并制作sprite sheet,实现了sprite animation. 符合响应式规范
-   ![](https://github.com/jzsplk/CV/raw/master/img/game_udacity.png)
 
 ## 作品
 - [获得优达学成前端开发（进阶）纳米学位](https://graduation.udacity.com/nd001-cn-advanced)
-  ![](https://github.com/jzsplk/CV/raw/master/img/certification.png)
-- [网页搭建之仿小米网管](https://jzsplk.github.io/xc-html-template/)
+- [网页搭建之仿建小米官网](https://jzsplk.github.io/xc-html-template/)
 
 ## 英语能力
 
 - 托业915分
 
 - 保持英文阅读至今
+
+## 附件作品图片
+1. 最爱抓娃娃H5 APP
+![](https://github.com/jzsplk/2018CV/raw/master/img/home.png)
+![](https://github.com/jzsplk/2018CV/raw/master/img/playroom.png)
+![](https://github.com/jzsplk/2018CV/raw/master/img/playing.png)
+2. Udacity 图书跟踪应用
+![](https://github.com/jzsplk/CV/raw/master/img/myreads_udacity.png)
+3. Udacity 米其林餐厅地图应用 ![](https://github.com/jzsplk/CV/raw/master/img/map_udacity.png)
+4. Udacity 街机游戏青蛙过河克隆项目 ![](https://github.com/jzsplk/CV/raw/master/img/game_udacity.png)
